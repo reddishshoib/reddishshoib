@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @reddishshoib
-- 👀 I’m interested in DevOps, ML, Cloud Computing
-- 🌱 I’m currently learning K8s and golang
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Front End Web Development
+- 🌱 I’m currently learning JS and React
+- 💞️ I’m looking to Internship 
+- 📫 How to reach me
 
 <!---
 reddishshoib/reddishshoib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
