@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @reddishshoib
-- 👀 I’m interested in Front End Web Development
-- 🌱 I’m currently learning JS and React
-- 💞️ I’m looking to Internship 
-- 📫 How to reach me
+- 👀 I’m Workaholic
+- 🌱 I’m currently working in Angular, Playwright, Spring Boot 
+- 📫 It is easy to [reach me](https://www.linkedin.com/in/reddish-shoib/)
 
 <!---
 reddishshoib/reddishshoib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
