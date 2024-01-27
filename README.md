@@ -30,8 +30,8 @@ Feel free to explore the repositories for more information and code details. I'l
 
 ## Contact
 Feel free to reach out to me:
-- Email: [shoib.ansari.dev@gmail.com]
-- LinkedIn: [Shoib Ansari](https://www.linkedin.com/in/shoib-ansari-dev/)
-- Twitter: [@SHOIB__ANSARI](https://twitter.com/SHOIB__ANSARI)
+- [Email](shoib.ansari.dev@gmail.com])
+- [LinkedIn](https://www.linkedin.com/in/shoib-ansari-dev/)
+- [Twitter](https://twitter.com/SHOIB__ANSARI)
 
 Let's connect and collaborate on exciting projects!
